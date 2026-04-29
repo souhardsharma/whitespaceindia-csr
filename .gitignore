@@ -55,3 +55,6 @@ scripts/**/__pycache__/
 
 # Claude session guide (kept local, not pushed)
 CLAUDE.md
+
+# Stray dir from an installer that failed to expand a Windows env var (created by external tool, not by this project)
+%souha%/
